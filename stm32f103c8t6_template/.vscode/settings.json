@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "stm32f10x_conf.h": "c",
-        "app_bat.h": "c"
-    }
-}
